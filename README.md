@@ -1,4 +1,4 @@
-This project will test MY ability to build APIs with complex validation. Before taking on this project, i should be comfortable with the learning objectives listed below:
+This project will test My ability to build APIs with complex validation. Before taking on this project, i should be comfortable with the learning objectives listed below:
 
 Running tests from the command line
 
